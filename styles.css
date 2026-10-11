@@ -1,0 +1,56 @@
+body {
+  font-family: 'Roboto', sans-serif;
+  background-color: rgb(230, 235, 237);
+  color: black;
+  margin: 3;
+  padding: 3;
+  font-size: 16px;
+  line-height: 1.6;
+}
+
+h1 {
+  font-size: 2.5rem;
+  color: navy;
+  padding-left: 1.25rem;
+}
+
+h2 {
+  font-size: 2.5rem;
+  color: navy;
+  padding-left: 1.25rem;
+}
+
+p {
+  font-size: 1.0 rem;
+  color: navy;
+}
+
+.headhighlight {
+  color: white;
+  font-weight: bold;
+  background-color: black;
+}
+
+.subheadhighlight{
+  color: black;
+  font-weight: bold;
+  background-color:white;
+}
+
+.listhighlight{
+  font-size: 1.0 rem;
+  color: darkred;
+}
+
+a {
+  color: blueviolet;
+  font-weight: 600;
+  border-bottom: 2px solid transparent;
+}
+
+
+a:hover {
+  color:magenta;
+  border-bottom-color: red;
+  text-decoration: underline;
+}
